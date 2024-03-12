@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
+    - theme: alt
+      text: Vue Examples
+      link: /vue-examples
 
 features:
   - title: Feature A
